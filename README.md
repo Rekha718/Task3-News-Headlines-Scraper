@@ -38,5 +38,3 @@ A simple Python script to scrape top news headlines from **CNN website** and sav
 - `README.md` → Project documentation  
 
 ---
-
-✅ Internship **Day 3 Task Completed**
