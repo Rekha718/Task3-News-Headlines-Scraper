@@ -1,6 +1,6 @@
 # 📰 News Headlines Scraper
 
-A simple Python script to scrape top news headlines from **CNN** and save them into a `.txt` file.
+A simple Python script to scrape top news headlines from **CNN website** and save them into a `.txt` file.
 
 ---
 
@@ -8,7 +8,7 @@ A simple Python script to scrape top news headlines from **CNN** and save them i
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/News-Scraper-CNN.git
+   git clone https://github.com/Rekha718/Task3-News-Headlines-Scraper
    ```
 2. Navigate into the project folder:
    ```bash
@@ -26,7 +26,7 @@ A simple Python script to scrape top news headlines from **CNN** and save them i
 ---
 
 ## 📌 Features
-- Scrapes headlines from **CNN** using `requests` and `BeautifulSoup`  
+- Scrapes headlines from **CNN website** using `requests` and `BeautifulSoup`  
 - Saves all headlines into `headlines.txt`  
 - Easy to modify for other news websites  
 
